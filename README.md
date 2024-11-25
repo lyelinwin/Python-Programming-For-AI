@@ -1,9 +1,11 @@
 # Python Programming For AI
 ## Hello, welcome to my graduate portfolio.
-### Back story: My original plan was go to med school, but when I started to learn how to code in connection with science, I realized that I want to enter the technology world and advance my skills.
-### Follow along in my journey in learning Python to program AI as the future advances.
+----------
+Back story: My original plan was go to med school, but when I started to learn how to code in connection with science, I realized that I want to enter the technology world and advance my skills.
+Follow along in my journey in learning Python to program AI as the future advances.
 
 During my 1st semesters at Texas A&M - Commerce for the MS in AI. I have learned the fundamentals of python and handling large data sets.
+
 
 Topics that I have learned: 
 - Coding Environment
@@ -25,10 +27,11 @@ Topics that I have learned:
 - HuggingFace
 
 
-  Each assignment was a task for us to tackle and put what we learn in class with the real world.
-  - Assignment 2: Strings, If statements, loops, and files
-  - Assignment 3: Reading file, determininng the number of wins and storing the data
-  - Assignment 4: NumPy
-  - Assignment 5: Handling with missing data, providing visualizaion, using Pandas and Python to gather specific informations
-  - Midterm: Handling missing data and a short dataframe while using Pandas and Python codes to discover the answer
-  - Assignment 7: Using Plotly, Pandas, and Python to tackle each task
+
+Each assignment was a task for us to tackle and put what we learn in class with the real world.
+- Assignment 2: Strings, If statements, loops, and files
+- Assignment 3: Reading file, determininng the number of wins and storing the data
+- Assignment 4: NumPy
+- Assignment 5: Handling with missing data, providing visualizaion, using Pandas and Python to gather specific informations
+- Midterm: Handling missing data and a short dataframe while using Pandas and Python codes to discover the answer
+- Assignment 7: Using Plotly, Pandas, and Python to tackle each task
