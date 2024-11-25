@@ -34,3 +34,4 @@ During my 1st semesters at Texas A&M - Commerce for the MS in AI. I have learned
 - Assignment 5: Handling with missing data, providing visualizaion, using Pandas and Python to gather specific informations
 - Midterm: Handling missing data and a short dataframe while using Pandas and Python codes to discover the answer
 - Assignment 7: Using Plotly, Pandas, and Python to tackle each task
+- Project: Applying what I have learned to topic related to AI, and reveal the findings 
