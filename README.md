@@ -7,7 +7,7 @@ Follow along in my journey in learning Python to program AI as the future advanc
 During my 1st semesters at Texas A&M - Commerce for the MS in AI. I have learned the fundamentals of python and handling large data sets.
 
 
-Topics that I have learned: 
+### Topics that I have learned: 
 - Coding Environment
 - Program Execution (Memory)
 - Types: Basic (Variables) & Data Structures
@@ -27,8 +27,7 @@ Topics that I have learned:
 - HuggingFace
 
 
-
-Each assignment was a task for us to tackle and put what we learn in class with the real world.
+### Each assignment was a task for us to tackle and put what we learn in class with the real world.
 - Assignment 2: Strings, If statements, loops, and files
 - Assignment 3: Reading file, determininng the number of wins and storing the data
 - Assignment 4: NumPy
